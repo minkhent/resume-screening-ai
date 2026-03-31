@@ -20,7 +20,9 @@ An enterprise-ready **AI Resume Screening System** that goes beyond keyword matc
 
 ## 🎬 Demo Video
 You can watrch demo here.
-[AI_resume_screening_demo.webm](https://github.com/user-attachments/assets/d95a9724-87ca-4dcb-b99a-4a879cf51394)
+
+<video src="[https://user-images.githubusercontent.com/126239/151127893-5c98ba8d-c431-4a25-bb1f-e0b33645a2b6.mp4](https://github.com/user-attachments/assets/d95a9724-87ca-4dcb-b99a-4a879cf51394)"></video>
+
 
 ## 🏗️ Project Structure
 
