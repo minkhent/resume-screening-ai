@@ -1,0 +1,190 @@
+[
+  {
+    "role_id": "std_ai_eng",
+    "title": "Senior AI / Machine Learning Engineer",
+    "core_competencies": [
+      "Large-scale data processing and feature engineering (Pandas, Spark)",
+      "Model performance tuning (quantization, pruning, distillation)",
+      "LLM fine-tuning (LoRA, PEFT) and prompt engineering",
+      "Distributed training across multi-GPU / multi-node environments",
+      "Vector search and retrieval systems (RAG pipelines)",
+      "Production API deployment and model serving (REST/gRPC)",
+      "MLOps lifecycle management (CI/CD for ML, monitoring, drift detection)"
+    ],
+    "soft_skills": [
+      "Bridging research and production systems",
+      "Leading cross-functional AI initiatives",
+      "Ethical AI design and bias mitigation"
+    ],
+    "technical_stack": [
+      "PyTorch", "TensorFlow", "HuggingFace", "Transformers",
+      "LangChain", "LangGraph", "CUDA", "Triton",
+      "Docker", "Kubernetes", "MLflow",
+      "FastAPI", "Flask", "MLOps"
+    ],
+    "skill_alias_mapping": {
+      "llm_finetuning": ["llm", "language model", "gpt", "bert", "llama", "qwen", "transformer"],
+      "distributed_training": ["multi-gpu", "multi-node", "scaling", "distributed"],
+      "vector_search": ["rag", "retrieval", "vector search", "vector db"],
+      "cloud": ["aws", "gcp", "azure", "docker", "kubernetes", "cloud-native"],
+      "mlops": ["ci/cd", "monitoring", "mlflow", "pipeline", "production", "deployment"],
+      "deep_learning" : ["CNN", "Transformer","LSTM/RNN"]
+    },
+    "experience_benchmarks": [
+      "Deployed large-scale ML/LLM systems serving millions of requests/day",
+      "Reduced model inference latency by 40–80% via optimization techniques",
+      "Built and maintained distributed training pipelines on terabyte-scale datasets",
+      "Implemented RAG systems improving answer accuracy by measurable metrics",
+      "Productionized research models into stable, monitored services"
+    ],
+    "industry_standard_summary": "Senior AI engineer specializing in scalable ML systems and LLM-powered applications, with deep expertise in transformer architectures, real-time inference optimization, and production deployment."
+  },
+  {
+    "role_id": "std_data_scientist",
+    "title": "Staff Data Scientist",
+    "core_competencies": [
+      "Advanced statistical modeling and hypothesis testing",
+      "Design and analysis of A/B and multivariate experiments",
+      "Causal inference (propensity scoring, uplift modeling)",
+      "Feature engineering and predictive modeling at scale",
+      "Bayesian modeling and probabilistic reasoning",
+      "Customer behavior modeling and segmentation",
+      "Data pipeline design for analytics and experimentation"
+    ],
+    "soft_skills": [
+      "Executive-level data storytelling",
+      "Influencing product and business strategy",
+      "Cross-functional stakeholder alignment"
+    ],
+    "technical_stack": [
+      "Python", "Pandas", "Scikit-learn", "Statsmodels",
+      "R", "SQL", "BigQuery", "Snowflake", "Redshift",
+      "Spark", "PySpark", "Airflow", "Tableau", "Looker"
+    ],
+    "skill_alias_mapping": {
+      "statistical_modeling": ["statistics", "regression", "hypothesis testing", "bayesian"],
+      "experimentation": ["ab testing", "multivariate", "causal inference", "uplift modeling"],
+      "data_pipeline": ["airflow", "etl", "spark", "pyspark", "bigquery", "redshift", "snowflake"],
+      "analytics": ["tableau", "looker", "dashboarding", "reporting"]
+    },
+    "experience_benchmarks": [
+      "Drove measurable revenue or growth impact through data products ($XM+ impact)",
+      "Designed and scaled experimentation platforms across multiple teams",
+      "Improved model accuracy and business KPIs through iterative experimentation",
+      "Led end-to-end analytics initiatives influencing product roadmap",
+      "Validated statistical significance for high-stakes business decisions"
+    ],
+    "industry_standard_summary": "Senior data science leader focused on applying rigorous statistical methods and experimentation frameworks to drive strategic business decisions and measurable impact."
+  },
+  {
+    "role_id": "std_cyber_sec",
+    "title": "Principal Security Engineer (SecOps)",
+    "core_competencies": [
+      "Advanced penetration testing and vulnerability assessment",
+      "Threat modeling and attack surface analysis",
+      "Incident detection, response, and forensic investigation",
+      "Identity and Access Management (IAM) architecture",
+      "Cloud security and zero-trust implementations",
+      "Security automation within CI/CD pipelines",
+      "Compliance frameworks (SOC2, ISO 27001, GDPR, HIPAA)"
+    ],
+    "soft_skills": [
+      "Crisis response leadership",
+      "Risk-based decision making",
+      "Security culture and training enablement"
+    ],
+    "technical_stack": [
+      "Kali Linux", "Burp Suite", "Metasploit",
+      "Splunk", "ELK", "CrowdStrike", "SentinelOne",
+      "Okta", "Auth0", "HashiCorp Vault",
+      "AWS CloudTrail", "GuardDuty"
+    ],
+    "skill_alias_mapping": {
+      "pentesting": ["penetration testing", "vulnerability assessment", "kali", "burp suite", "metasploit"],
+      "cloud_security": ["aws", "cloudtrail", "guardduty", "azure", "gcp", "zero-trust"],
+      "iam": ["identity", "access management", "okta", "auth0", "roles", "permissions"],
+      "security_monitoring": ["splunk", "elk", "crowdstrike", "sentinelone", "alerts"],
+      "compliance": ["soc2", "iso27001", "gdpr", "hipaa"]
+    },
+    "experience_benchmarks": [
+      "Led incident response for critical security breaches with minimal downtime",
+      "Reduced vulnerability remediation time by over 50%",
+      "Implemented organization-wide security monitoring and alerting systems",
+      "Maintained zero critical security incidents across production systems",
+      "Successfully passed multiple external security audits and compliance checks"
+    ],
+    "industry_standard_summary": "Principal-level security engineer specializing in proactive threat detection, incident response, and building automated security systems across cloud-native environments."
+  },
+  {
+    "role_id": "std_backend_architect",
+    "title": "Principal Backend Architect",
+    "core_competencies": [
+      "Design of large-scale distributed systems",
+      "Microservices architecture and service decomposition",
+      "Event-driven systems and message queue design",
+      "API design, versioning, and gateway management",
+      "Database architecture (sharding, replication, indexing)",
+      "Performance optimization and scalability engineering",
+      "Reliability engineering and fault-tolerant systems"
+    ],
+    "soft_skills": [
+      "Technical leadership and architecture governance",
+      "Mentoring senior engineers",
+      "Cross-team system design alignment"
+    ],
+    "technical_stack": [
+      "Go", "Java", "Spring Boot", "Node.js",
+      "PostgreSQL", "MySQL", "Kafka", "RabbitMQ",
+      "Redis", "gRPC", "REST", "Docker", "Kubernetes"
+    ],
+    "skill_alias_mapping": {
+      "distributed_systems": ["distributed", "microservices", "scaling", "high-availability"],
+      "messaging": ["kafka", "rabbitmq", "event-driven", "pub/sub"],
+      "database": ["postgresql", "mysql", "sql", "sharding", "replication", "indexing"],
+      "api": ["rest", "grpc", "api gateway", "versioning"],
+      "cloud": ["docker", "kubernetes", "deployment"]
+    },
+    "experience_benchmarks": [
+      "Designed systems handling 100k–1M+ requests per second",
+      "Led migration from monolith to microservices architecture",
+      "Achieved 99.99%+ system uptime with robust failover strategies",
+      "Optimized system latency and throughput under high load conditions",
+      "Defined architectural standards adopted across engineering teams"
+    ],
+    "industry_standard_summary": "Principal backend architect focused on designing highly scalable, resilient, and maintainable systems powering mission-critical applications."
+  },
+  {
+    "role_id": "std_product_mgr",
+    "title": "Technical Product Manager (TPM)",
+    "core_competencies": [
+      "End-to-end product lifecycle ownership from ideation to launch and iteration",
+      "Roadmap prioritization based on business impact, technical feasibility, and user needs",
+      "Agile/Scrum execution with engineering teams (sprint planning, backlog grooming)",
+      "User journey mapping and experience optimization across digital touchpoints",
+      "Data-driven decision making using product analytics and experimentation",
+      "Defining and tracking KPIs (retention, conversion, engagement)",
+      "Translating business requirements into technical specifications"
+    ],
+    "soft_skills": [
+      "Influencing cross-functional teams without direct authority",
+      "Strong user empathy and customer-centric thinking",
+      "Executive communication and stakeholder alignment"
+    ],
+    "technical_stack": [
+      "Jira", "Confluence", "Productboard", "Aha!", "Mixpanel", "Amplitude", "SQL", "Figma", "Google Analytics"
+    ],
+    "skill_alias_mapping": {
+      "agile": ["scrum", "sprint planning", "backlog grooming", "kanban", "jira", "confluence"],
+      "analytics": ["product analytics", "kpi tracking", "mixpanel", "amplitude", "google analytics", "sql"],
+      "user_research": ["user journey mapping", "ux research", "usability testing", "customer interviews"]
+    },
+    "experience_benchmarks": [
+      "Launched 0→1 products from concept to market with measurable adoption",
+      "Improved user retention and engagement through iterative feature optimization",
+      "Defined and scaled product metrics frameworks across teams",
+      "Led cross-functional initiatives involving engineering, design, and business",
+      "Delivered features that contributed directly to revenue or growth KPIs"
+    ],
+    "industry_standard_summary": "Technical product leader responsible for bridging business strategy and engineering execution, delivering user-centric products through data-driven prioritization and cross-functional collaboration."
+  }
+]

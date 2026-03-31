@@ -1,0 +1,66 @@
+# ----------------------------
+# Python bytecode and caches
+# ----------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pycache/
+*.pytest_cache/
+
+# ----------------------------
+# Virtual environments
+# ----------------------------
+venv/
+resume_ai/
+
+# ----------------------------
+# OS / Editor files
+# ----------------------------
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.idea/
+*.vscode/
+*.log
+
+# ----------------------------
+# Logs / temporary files
+# ----------------------------
+*.tmp
+*.bak
+
+# ----------------------------
+# SpaCy model wheel
+# ----------------------------
+en_core_web_md-*.whl
+
+# ----------------------------
+# Optional / local data uploads
+# ----------------------------
+data/resumes/
+
+# ----------------------------
+# PyTorch / TensorFlow / ML artifacts
+# ----------------------------
+*.pt
+*.ckpt
+*.h5
+*.safetensors
+*.pth
+*.onnx
+*.tflite
+
+# ----------------------------
+# Notebook checkpoints
+# ----------------------------
+.ipynb_checkpoints/
+
+# ----------------------------
+# Python packaging
+# ----------------------------
+*.egg-info/
+dist/
+build/
+.eggs/
