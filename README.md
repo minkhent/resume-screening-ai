@@ -21,7 +21,7 @@ An enterprise-ready **AI Resume Screening System** that goes beyond keyword matc
 ## 🎬 Demo Video
 You can watrch demo here.
 
-<video src="https://github.com/minkhent/resume-screening-ai/blob/main/demo/AI_resume_screening_demo.webm"></video>
+[Click here to watch the demo video](demo/AI_resume_screening_demo.webm)
 
 
 ## 🏗️ Project Structure
