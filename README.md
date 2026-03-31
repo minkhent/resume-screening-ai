@@ -18,8 +18,14 @@ An enterprise-ready **AI Resume Screening System** that goes beyond keyword matc
 
 ---
 
-## 🎬 Demo Video
+## Dataset 
+I use this dataset to train model
+```text
+ https://www.kaggle.com/datasets/snehaanbhawal/resume-dataset
+```
 
+
+## 🎬 Demo Video
 [Click here to watch the demo video](demo/AI_resume_screening_demo.webm)
 
 
