@@ -24,9 +24,10 @@ I use this dataset to train model
  https://www.kaggle.com/datasets/snehaanbhawal/resume-dataset
 ```
 
-
 ## 🎬 Demo Video
-[Click here to watch the demo video](demo/AI_resume_screening_demo.webm)
+[AI_resume_screening_demo.webm](https://github.com/user-attachments/assets/a7ff475d-4c9d-4c19-8b04-e33bf783be30)
+
+
 
 
 ## 🏗️ Project Structure
