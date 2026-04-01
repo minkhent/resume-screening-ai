@@ -23,7 +23,7 @@ Thumbs.db
 *.swo
 *.idea/
 *.vscode/
-*.log
+
 
 # ----------------------------
 # Logs / temporary files
